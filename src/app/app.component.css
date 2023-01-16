@@ -1,0 +1,13 @@
+.outerbox {
+    display: flex;
+}
+.box {
+    padding: 0.5rem;
+}
+
+/* Tablet + näkymän css-säännöt. */
+@media only screen and (max-width: 425px) {
+    .outerbox {
+        display: block;
+    }
+}
