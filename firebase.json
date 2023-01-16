@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/success-ja-warning",
+    "public": "dist/success-ja-warning/",
     "ignore": [
       "firebase.json",
       "**/.*",
